@@ -1,4 +1,4 @@
-fh = open("text.txt)
+fh = open("text.txt")
 file = fh.read().split()
  
 def revword(word):
