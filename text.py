@@ -1,7 +1,4 @@
-
-
-fname = input('Enter the file name: ')
-fh = open(fname)
+fh = open("text.txt)
 file = fh.read().split()
  
 def revword(word):

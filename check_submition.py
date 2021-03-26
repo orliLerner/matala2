@@ -1,5 +1,5 @@
-# Do pip install gitpython
-# run with python check_submition.py hw-id.txt
+##pip install gitpython
+##run with python check_submition.py hw-205358252.txt
 import os
 import sys
 import subprocess
